@@ -3951,7 +3951,7 @@
   <item component="ComponentInfo{com.weatherflow.smartweather/com.weatherflow.smartweather.presentation.home.MainActivity}" drawable="tempest" name="Tempest" />
   <item component="ComponentInfo{com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity}" drawable="termius" name="Termius" />
   <item component="ComponentInfo{com.termux.api/com.termux.api.activities.TermuxAPIActivity}" drawable="termux" name="Termux" />
-  <item component="ComponentInfo{com.termux/.app.TermuxActivity}" drawable="termux" name="Termux" />
+  <item component="ComponentInfo{com.termux/com.termux.HomeActivity}" drawable="termux" name="Termux" />
   <item component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}" drawable="termux" name="Termux" />
   <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" name="Termux" />
   <item component="ComponentInfo{com.termux/com.termux.app.TermuxFailsafeActivity}" drawable="termux" name="Termux" />
