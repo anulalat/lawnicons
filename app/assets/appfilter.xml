@@ -943,6 +943,7 @@
   <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="dkb_pushtan" name="DKB TAN2go" />
   <item component="ComponentInfo{com.dna.tools/com.projectkr.shell.SplashActivity}" drawable="dna_android" name="DNA-Android" />
   <item component="ComponentInfo{com.dolby/com.dolby.ds1appUI.MainActivity}" drawable="dolby" name="Dolby" />
+  <item component="ComponentInfo{com.dolby.daxappui/com.dolby.daxappui.MainActivity}" drawable="dolby" name="Dolby Atmos" />
   <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin_emulator" name="Dolphin Emulator" />
   <item component="ComponentInfo{by.mc.dominos.com/by.mc.dominos.com.Dominos}" drawable="dominos" name="Domino's Pizza" />
   <item component="ComponentInfo{com.boloid.dominos/com.boloid.dominos.activities.SplashActivity_}" drawable="dominos" name="Domino's Pizza" />
