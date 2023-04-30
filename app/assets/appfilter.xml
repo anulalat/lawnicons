@@ -3835,6 +3835,7 @@
   <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete" name="StreetComplete" />
   <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}" drawable="streetcomplete" name="StreetComplete" />
   <item component="ComponentInfo{com.stremio.one/com.stremio.MainActivity}" drawable="stremio" name="Stremio" />
+  <item component="ComponentInfo{com.yacinenwupdt.v311/com.yacinenwupdt.v311.MainActivity}" drawable="stremio" name="Yacine TV" />
   <item component="ComponentInfo{com.studentbeans.studentbeans/com.studentbeans.studentbeans.LoadingActivity}" drawable="student_beans" name="Student Beans" />
   <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="simple_gallery" name="Styles &amp; Wallpapers" />
   <item component="ComponentInfo{it.subito/it.subito.main.impl.MainActivity}" drawable="subito" name="Subito" />
