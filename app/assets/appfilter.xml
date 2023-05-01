@@ -2269,6 +2269,8 @@
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="generic_player" name="MX Player" />
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="generic_player" name="MX Player" />
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="generic_player" name="MX Player" />
+  <item component="ComponentInfo{net.omobio.airtelsc/net.omobio.airtelsc.ui.splash.SplashActivity}" drawable="myairtel" name="My Airtel"/>
+  <item component="ComponentInfo{net.omobio.airtelsc/net.omobio.airtelsc.activities.HomeActivity}" drawable="myairtel" name="My Airtel"/>
   <item component="ComponentInfo{com.heytap.vip/com.platform.usercenter.vip.UCVIPMainActivity}" drawable="my_oneplus" name="My OnePlus" />
   <item component="ComponentInfo{com.dafturn.mypertamina/com.dafturn.mypertamina.presentation.onboarding.splash.SplashActivity}" drawable="mypertamina" name="My Pertamina" />
   <item component="ComponentInfo{ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity}" drawable="meinvodafone" name="My Vodafone" />
@@ -3089,10 +3091,13 @@
   <item component="ComponentInfo{com.quora.android/com.quora.android.LauncherActivity}" drawable="quora" name="Quora" />
   <item component="ComponentInfo{com.quora.android/com.quora.android.LaunchFromUrlActivity}" drawable="quora" name="Quora" />
   <item component="ComponentInfo{com.quora.android/com.quora.android.StartupActivity}" drawable="quora" name="Quora" />
-  <item component="ComponentInfo{com.andi.alquran.id/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an" />
-  <item component="ComponentInfo{com.andi.alquran.id/com.andi.alquran.HomeActivity}" drawable="quran" name="Qur'an" />
-  <item component="ComponentInfo{com.andi.alquran.en/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an EN" />
   <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quran" name="Quran" />
+  <item component="ComponentInfo{com.andi.alquran.bangla/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an Bangla" />
+  <item component="ComponentInfo{com.andi.alquran.en/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an English" />
+  <item component="ComponentInfo{com.andi.alquran.francais/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an French" />
+  <item component="ComponentInfo{com.andi.alquran.id/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an Indonesia" />
+  <item component="ComponentInfo{com.andi.alquran.melayu/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an Melayu" />
+  <item component="ComponentInfo{com.andi.alquran.urdu/com.andi.alquran.ActivityHome}" drawable="quran" name="Qur'an Urdu" />
   <item component="ComponentInfo{nl.rabowallet/com.gieseckedevrient.convego.ui.MainActivity}" drawable="rabo_wallet" name="Rabo Wallet" />
   <item component="ComponentInfo{nl.rabomobiel/nl.rabobank.bankierenplus.URActivity}" drawable="rabobank" name="rabobank" />
   <item component="ComponentInfo{nl.rabomobiel/nl.rabomobiel.SplashActivity}" drawable="rabobank" name="rabobank" />
