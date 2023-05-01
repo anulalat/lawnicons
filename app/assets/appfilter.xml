@@ -3824,6 +3824,7 @@
   <item component="ComponentInfo{com.valvesoftware.android.steam.friendsui/com.valvesoftware.android.steam.friendsui.MainActivity}" drawable="steam_chat" name="Steam Chat" />
   <item component="ComponentInfo{com.valvesoftware.android.steam.friendsui/host.exp.exponent.MainActivity}" drawable="steam_chat" name="Steam Chat" />
   <item component="ComponentInfo{com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity}" drawable="steam_link" name="Steam Link" />
+  <item component="ComponentInfo{io.chaldeaprjkt.gamespace/io.chaldeaprjkt.gamespace.settings.SettingsActivity}" drawable="steam_link" name="Game Space" />
   <item component="ComponentInfo{io.stellio.music/air.stellio.player.MainActivity}" drawable="stellio" name="Stellio" />
   <item component="ComponentInfo{org.stepic.droid/org.stepic.droid.view.activities.SplashActivity}" drawable="stepik" name="Stepik" />
   <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" name="Stocard" />
