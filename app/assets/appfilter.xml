@@ -1783,6 +1783,7 @@
   <item component="ComponentInfo{com.simplemobiletools.keyboard/com.simplemobiletools.keyboard.activities.SplashActivity.Teal}" drawable="keyboard" name="Keyboard" />
   <item component="ComponentInfo{com.simplemobiletools.keyboard/com.simplemobiletools.keyboard.activities.SplashActivity.Yellow}" drawable="keyboard" name="Keyboard" />
   <item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="khan_academy" name="Khan Academy" />
+  <item component="ComponentInfo{app.kiryuu.co.rev/com.example.kiryuu.MainActivity}" drawable="kicker" name="Kiryuu Rev PRO" />
   <item component="ComponentInfo{com.netbiscuits.kicker/com.netbiscuits.kicker.Kicker}" drawable="kicker" name="kicker" />
   <item component="ComponentInfo{com.netbiscuits.kicker/com.netbiscuits.kicker.splash.SplashActivity}" drawable="kicker" name="kicker" />
   <item component="ComponentInfo{com.netbiscuits.kicker/com.tickaroo.kickerxml.ui.home.HomeActivity}" drawable="kicker" name="kicker" />
