@@ -20,7 +20,7 @@ val ciRunNumber = System.getenv("GITHUB_RUN_NUMBER").orEmpty()
 val isReleaseBuild = ciBuild && ciRef.contains("main")
 val devReleaseName = if (ciBuild) "(Dev #$ciRunNumber)" else "($buildCommit)"
 
-val version = "2.0.0"
+val version = "6.9"
 val versionDisplayName = "$version ${if (isReleaseBuild) "" else devReleaseName}"
 
 android {
@@ -52,12 +52,12 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = true
             signingConfig = releaseSigning
             proguardFiles("proguard-rules.pro")
         }
         debug {
             signingConfig = releaseSigning
+            proguardFiles("proguard-rules.pro")
         }
     }
 
