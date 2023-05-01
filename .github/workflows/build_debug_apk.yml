@@ -40,13 +40,15 @@ jobs:
         with:
           gradle-home-cache-cleanup: true
       - name: Write sign info
-        if: github.repository_owner == 'AnggaR96s'
+        if: github.repository_owner == 'LawnchairLauncher'
         run: |
-          echo storePassword='${{ secrets.KEYSTORE_PASSWORD }}' >> keystore.properties
-          echo keyAlias='${{ secrets.KEY_ALIAS }}' >> keystore.properties
-          echo keyPassword='${{ secrets.KEY_PASSWORD }}' >> keystore.properties
-          echo storeFile='${{ github.workspace }}/key.jks' >> keystore.properties
-          echo "${{ secrets.KEYSTORE }}" | base64 --decode > ${{ github.workspace }}/key.jks
+          if [ ! -z "${{ secrets.KEYSTORE }}" ]; then
+            echo storePassword='${{ secrets.KEYSTORE_PASSWORD }}' >> keystore.properties
+            echo keyAlias='${{ secrets.KEY_ALIAS }}' >> keystore.properties
+            echo keyPassword='${{ secrets.KEY_PASSWORD }}' >> keystore.properties
+            echo storeFile='${{ github.workspace }}/key.jks' >> keystore.properties
+            echo ${{ secrets.KEYSTORE }} | base64 --decode > ${{ github.workspace }}/key.jks
+          fi
       - name: Prepare Prebuild
         run: ./gradlew svg-processor:run
       - name: Build debug APK
