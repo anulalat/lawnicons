@@ -36,7 +36,7 @@
   <item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="themed_icon_calendar_31" name="Calendar"/>
   <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar"/>
   <!--  Lawnicons -->
-  <item component="ComponentInfo{ver3.ycntivi.off/dev.pankaj.yacinetv.ui.splash.SplashActivity}" drawable="yacine" name="Yacine TV" />
+  <item component="ComponentInfo{ver3.ycntivi.off/dev.pankaj.yacinetv.ui.splash.SplashActivity}" drawable="youtube_tv" name="Yacine TV" />
   <item component="ComponentInfo{com.ytv.player/dev.pankaj.ytvplayer.ui.splash.SplashActivity}" drawable="ytv" name="YTV" />
   <item component="ComponentInfo{id.co.bankbkemobile.digitalbank/com.shopee.bke.digitalbank.luncher.LauncherActivity}" drawable="seabank" name="SeaBank" />
   <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="onedotonedotonedotone" name="1.1.1.1" />
