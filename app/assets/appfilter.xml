@@ -38,6 +38,10 @@
   <!--  Lawnicons -->
   <item component="ComponentInfo{com.neogames.realfarmworld/com.unity3d.player.UnityPlayerActivity}" drawable="realfarmworld" name="realfarmworld" />
   <item component="ComponentInfo{com.gamevil.kritikamobile.android.google.global.normal/com.gamevil.kritikamobile.android.google.global.normal.UnityPlayerNativeActivity}" drawable="kritika" name="Kritika" />
+  <item component="ComponentInfo{com.github.stenzek.duckstation/com.github.stenzek.duckstation.MainActivity}" drawable="duckstation" name="DuckStation" />
+  <item component="ComponentInfo{com.LanPiaoPiao.PlantsVsZombiesRH/com.unity3d.player.UnityPlayerActivity}" drawable="plants_vs_zombies_rh" name="PlantsVsZombiesRH" />
+  <item component="ComponentInfo{scd.lcex/scd.lcex.ActivityMain}" drawable="logcat_extream" name="Logcat Extreme" />
+  <item component="ComponentInfo{com.henrikherzig.playintegritychecker/com.henrikherzig.playintegritychecker.MainActivity}" drawable="simple_play_integrity" name="Simple Play Integrity Checker" />
   <item component="ComponentInfo{ver3.ycntivi.off/dev.pankaj.yacinetv.ui.splash.SplashActivity}" drawable="youtube_tv" name="Yacine TV" />
   <item component="ComponentInfo{com.ytv.player/dev.pankaj.ytvplayer.ui.splash.SplashActivity}" drawable="ytv" name="YTV" />
   <item component="ComponentInfo{id.co.bankbkemobile.digitalbank/com.shopee.bke.digitalbank.luncher.LauncherActivity}" drawable="seabank" name="SeaBank" />
